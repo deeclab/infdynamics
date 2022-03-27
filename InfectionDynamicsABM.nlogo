@@ -64,8 +64,9 @@ to go
       roam
       update-infstatus
       ]
-    tick
+    ;tick
     ]
+  tick      ;AB
 end
 
 to roam
